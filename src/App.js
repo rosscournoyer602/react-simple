@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css'
+import React from 'react'
+import './App.scss'
 
 export default function App() {
 	return (
-		<div className='.app'>
+		<div className='app'>
 			Hello World
 		</div>
-	);
+	)
 }
